@@ -1,0 +1,108 @@
+body {
+  text-align: center;
+  margin:0;
+  border: 0;
+  font-family: 'Merriweather', serif;
+}
+
+h1{
+  color: #66BFBF;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento',cursive;
+}
+h2{
+  color: #66BFBF;
+  font-family: 'Montserrat',sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+h3{
+  color: #11999E;
+  font-family: 'Montserrat',sans-serif;
+}
+
+.footer-link{
+  color: #11999E;
+}
+.footer-link-twitter{
+  color: #11999E;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  margin: 0;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container{
+  margin: 100px 0 100px 0;
+}
+.bottom-cloud{
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top:50px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.cricket-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.touch-in{
+  /* text-align: center; */
+  width: 50%;
+  /* margin-left: 25%; */
+  margin: auto;
+  font-weight: bold;
+}
+hr{
+  border: dotted #EAF6F6 8px;
+  border-bottom: none;
+  width: 4%;
+}
+
+.contact-button{
+  background-color: #66BFBF;
+  padding: 4px 8px 4px 8px;
+  color: white;
+  font-size: 20px;
+  border-radius:8px;
+  border-color: #66BFBF;
+  border: none;
+  margin-top: 30px;
+
+}
+  .bottom-container{
+    background-color: #66BFBF;
+    padding-bottom: 40px;
+    margin-top:60px;
+    padding-top: 40px;
+  }
+  .copy-right{
+    color: #EAF6F6;
+  }
+
+  a{
+    text-decoration: none;
+  }
+  a:hover{
+    color: #EAF6F6;
+  }
